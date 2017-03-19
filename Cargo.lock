@@ -1,0 +1,4 @@
+[root]
+name = "borrow-checker-examples"
+version = "0.1.0"
+

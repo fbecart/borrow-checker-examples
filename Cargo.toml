@@ -1,0 +1,6 @@
+[package]
+name = "borrow-checker-examples"
+version = "0.1.0"
+authors = ["Florent Bécart <florent.becart@gmail.com>"]
+
+[dependencies]
