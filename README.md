@@ -6,11 +6,12 @@ Each code sample is a `/examples/*.rs` file.
 
     # Install rustup
     curl https://sh.rustup.rs -sSf | sh
+    source $HOME/.cargo/env
     
     # Clone the repository
     git clone git@github.com:fbecart/borrow-checker-examples.git
     
-    # Test install
+    # Test your setup
     cd borrow-checker-examples
     cargo run
 
