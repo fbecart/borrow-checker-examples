@@ -1,4 +1,4 @@
-Code samples for the [Borrow Checker presentation](https://fbecart.github.io/Presentations/BorrowChecker/#/).
+Code samples for the [Borrow Checker presentation](https://fbecart.github.io/Presentations/borrow-checker.html#/).
 
 Each code sample is a `/examples/*.rs` file.
 
